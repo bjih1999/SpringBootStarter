@@ -92,13 +92,13 @@ public class SampleListener implements ApplicationRunner {
 CommandlineRunner
     - 커맨드의 인자를 가져오고 싶을 경우 사용하는 인터페이스
  */
-/*public class SampleListener implements CommandLineRunner {
-    @Override
-    public void run(String... args) throws Exception {
-        Arrays.stream(args).forEach(System.out::println);
-    }
-}
-
- */
+///*public class SampleListener implements CommandLineRunner {
+//    @Override
+//    public void run(String... args) throws Exception {
+//        Arrays.stream(args).forEach(System.out::println);
+//    }
+//}
+//
+// */
 
 
